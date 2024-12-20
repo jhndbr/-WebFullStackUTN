@@ -1,0 +1,6 @@
+1. Iniciar el servidor de desarrollo de Laravel
+Si aún no lo has hecho, asegúrate de que el servidor de Laravel esté en funcionamiento. Para ello, utiliza:
+
+bash
+Copiar código
+php artisan serve
